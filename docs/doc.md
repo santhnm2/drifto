@@ -18,7 +18,7 @@ While Drifto is designed to be plug-and-play, you may desire finer-grained contr
 
 ### Detailed Docs
 
-In a Python interpreter shell, if you `import drifto`, you can run `help(drifto.featurize)`,
+In a Python interpreter shell, if you `import drifto`, you can run `help(drifto.wrangle)`,
 `help(drifto.featurize)`, `help(drifto.train)`, and `help(drifto.inference)` to see detailed
 docs for each of our four API calls.
 
